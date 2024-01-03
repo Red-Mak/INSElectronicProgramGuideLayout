@@ -9,6 +9,6 @@ Pod::Spec.new do |s|
   s.source_files = 'INSElectronicProgramGuideLayout/*.{h,m}'
   s.requires_arc = true
 
-  s.platform = :ios, '7.0'
+  s.platform = :ios, '13.0'
   s.frameworks = 'UIKit'
 end
